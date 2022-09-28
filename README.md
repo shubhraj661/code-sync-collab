@@ -1,3 +1,4 @@
 ### Demo
 
-https://code-sync.codersgyan.com/
+
+http://code-sync-collab.herokuapp.com/
