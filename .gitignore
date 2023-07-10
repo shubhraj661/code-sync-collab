@@ -10,7 +10,8 @@
 # testing
 /coverage
 
-
+#prod
+/build
 
 
 # misc
