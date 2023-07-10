@@ -9,6 +9,6 @@ export const initSocket = async () => {
         transports: ['websocket'],
     };
 
-    return io( 'https://code-sync-collab.herokuapp.com/' , options);
+    return io( window.location.origin , options);
     
 };
